@@ -13,7 +13,7 @@ Git
 
 1) Clone o projeto
 ```
-git clone https://github.com/luanalima77/aplicacao-saude.git
+git clone https://github.com/luanalima77/Aplicacao-de-saude-com-arquitetura-MVC.git
 ```
 <br>
 
